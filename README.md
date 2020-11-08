@@ -29,8 +29,7 @@ gambar1
 tentukan banyak nya perulangan contoh : 10
 variable i berfungsi menampung indeks dan fungsi range() untuk membuat list range dari 1-10
 klik run (shift+F6) dan tampilah hasil output di sebelah kanan gambar.
-![latihan1.py.png](/gambar1/latihan1.py.png)
-
+![latihan1 py](https://user-images.githubusercontent.com/72727632/98471046-43642f80-221c-11eb-8b3b-a0fef66e2932.png)
 
 #Latihan 2
 
