@@ -43,7 +43,7 @@ Struktur algorithma latihan 2
 - Nilai n diisi pada saat runtime.<br>
 - Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya.
 
-**Fungsi random()**
+**Fungsi random()**<br>
 `Fungsi ini akan mengembalikan bilangan float random x, dimana 0 < x < 1. Fungsi random() tidak memiliki parameter masukan.`
 
 lihatlah gambar2 dibawah ini<br>
