@@ -31,7 +31,7 @@ print("{0:>5}.format(hitung), end ='')
 print()
 
 gambar1
-
+![latihan1 py](https://user-images.githubusercontent.com/72727632/98471046-43642f80-221c-11eb-8b3b-a0fef66e2932.png)
 tentukan banyak nya perulangan contoh : 10
 
 variable i berfungsi menampung indeks dan fungsi range() untuk membuat list range dari 1-10
