@@ -1,9 +1,9 @@
 # Pertemuan 7
-## Program Python perulangan beringkat (nested)
- for
-Perulangan dalam bahasa pemrograman berfungsi melakukan secara berulang-ulang, terdapat dua jnis perulangan dalam python. yaitu: *for* dan *while*.
+## Program Python perulangan beringkat (nested) for
 
-`for` disebut counted loop (perulangan yang terhitung)
+Perulangan dalam bahasa pemrograman berfungsi melakukan secara berulang-ulang, terdapat dua jnis perulangan dalam python. yaitu: **for** dan **while**.
+
+`for` disebut counted loop (perulangan yang terhitung)<br>
 `for` biasanya digunakan untuk mengulangi code yang sudah diketahui dengan banyaknya perulangan.
 
 `while` disebut uncounted loop (perulangan yang tak terhitung)<br>
@@ -14,30 +14,25 @@ Perulangan dalam bahasa pemrograman berfungsi melakukan secara berulang-ulang, t
 
 Tugas membuat program dengan perulangan bertingkat (nested) for.
 
-code
+**code**
 
-baris = 10
+          baris = 10
+          kolom = baris
+            for i in range (baris):
+               for j in range (kolom):
+               hitung = i+j
+            print("{0:>5}.format(hitung), end ='')
 
-kolom = baris
+          print()
 
-for i in range (baris):
-
-for j in range (kolom):
-
-hitung = i+j
-
-print("{0:>5}.format(hitung), end ='')
-
-print()
-
-**gambar1**
+**gambar1**<br>
 ![latihan1 py](https://user-images.githubusercontent.com/72727632/98471046-43642f80-221c-11eb-8b3b-a0fef66e2932.png)
 
 tentukan banyak nya perulangan contoh : 10
 
 
 variable i berfungsi menampung indeks dan fungsi range() untuk membuat list range dari 1-10<br>
-klik run (shift+F6) dan tampilah hasil output di sebelah kanan gambar.
+klik `run` (shift+F6) dan tampilah hasil output di sebelah kanan gambar.
 
 
 ## Latihan 2
