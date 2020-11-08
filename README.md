@@ -21,7 +21,7 @@ Tugas membuat program dengan perulangan bertingkat (nested) for.
             for i in range (baris):
                for j in range (kolom):
                hitung = i+j
-            print("{0:>5}.format(hitung), end ='')
+            print("{0:>5}.format(hitung), end='')
 
           print()
 
@@ -31,8 +31,8 @@ Tugas membuat program dengan perulangan bertingkat (nested) for.
 tentukan banyak nya perulangan contoh : 10
 
 
-variable i berfungsi menampung indeks dan fungsi range() untuk membuat list range dari 1-10<br>
-klik `run` (shift+F6) dan tampilah hasil output di sebelah kanan gambar.
+variable **i** berfungsi menampung indeks dan fungsi **range()** untuk membuat list range dari 1-10<br>
+klik `run` `(shift+F6)` dan tampilah hasil output di sebelah kanan gambar.
 
 
 ## Latihan 2
@@ -43,7 +43,7 @@ Struktur algorithma latihan 2
 - Nilai n diisi pada saat runtime.<br>
 - Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya.
 
-Fungsi random()
+**Fungsi random()**
 `Fungsi ini akan mengembalikan bilangan float random x, dimana 0 < x < 1. Fungsi random() tidak memiliki parameter masukan.`
 
 lihatlah gambar2 dibawah ini<br>
